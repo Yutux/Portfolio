@@ -1090,7 +1090,7 @@ p.paragraphe {
 .section-parallax {
     width: 100%;
     height: 250px;
-    background: url(ressources/ok.gif) no-repeat right / cover fixed;
+    background: url(ressources/bridge.gif) no-repeat right / cover fixed;
     display: flex;
     justify-content: center;
     align-items: center;
