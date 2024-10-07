@@ -968,7 +968,7 @@ p.paragraphe {
     justify-content: center;
 }
 .barre-verticale {
-    height: 1000px;
+    height: 1300px;
     width: 5px;
     background: #000;
     display: flex;
@@ -1033,6 +1033,12 @@ p.paragraphe {
 }
 .bloc5 {
     background: #d0e2ec;
+}
+.bloc6 {
+    background: #dc6f7c;
+}
+.bloc7 {
+    background: #88b596;
 }
 .titre-section-bloc {
     font-family: 'pix', sans-serif;
